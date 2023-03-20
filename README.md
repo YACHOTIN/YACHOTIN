@@ -1,8 +1,8 @@
 ### Hi there 👋
 
--I'm Korean Student developer.
+-I'm Korean Student Developer.
 
--I'm interest in Game,listening Music.
+-I'm interest in Game,Listening Music.
 
 ### I'm using 💻
 
