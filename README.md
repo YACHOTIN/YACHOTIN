@@ -4,7 +4,7 @@
 
 -I'm interest in Game,listening Music
 
-### I'm using
+### I'm using 💻
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
@@ -15,3 +15,4 @@ Discord: YACHOTIN#3485
 Steam: KuMo
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YACHOTIN&show_icons=true&theme=radical)
+
