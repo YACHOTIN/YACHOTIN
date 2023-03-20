@@ -6,8 +6,7 @@
 
 ### I'm using
 
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-YACHOTIN#3485
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white): YACHOTIN#3485
 
 ![https://s.team/p/fhbd-bgwh/rccvdjjm](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
